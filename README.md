@@ -20,6 +20,10 @@ Stakeholder Analysis of Key and Secondary Stakeholders:
 <h2>Program walk-through:</h2>
 
 <p align="center">
+Homepage:  <br/>
+<img width="1843" height="901" alt="image" src="https://github.com/user-attachments/assets/552ba43a-2afd-4b34-b862-a5b7fc22847e" />
+<br />
+<br />
 Login Screen Presented to the User: <br/>
 <img width="1838" height="855" alt="image" src="https://github.com/user-attachments/assets/acf40041-7a23-4a1c-949e-eaabd36e9675" />
 <br />
@@ -30,10 +34,6 @@ Sign-Up Screen:  <br/>
 <br />
 Visual Studio Example Showing Password Hashing: <br/>
 <img width="1841" height="998" alt="image" src="https://github.com/user-attachments/assets/b5ea4b9b-70b5-4fdb-91cd-553f13d238d2" />
-<br />
-<br />
-Homepage:  <br/>
-<img width="1843" height="901" alt="image" src="https://github.com/user-attachments/assets/552ba43a-2afd-4b34-b862-a5b7fc22847e" />
 <br />
 <br />
 Feed Example:  <br/>
