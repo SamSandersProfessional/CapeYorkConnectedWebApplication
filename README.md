@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=kxfg-VVVXUs)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project was a group task consisting of five members to create an application that would serve residents of Cape York in Australia. The application uses HTML with CSS for styling, JavaScript for simple scripts such as incrementing the like counter, JSON to store hashed passwords and a test harness to test features within the pages.
 <br />
 
 
